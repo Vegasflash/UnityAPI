@@ -1,0 +1,11 @@
+body { 
+    background-color: grey
+}
+
+form {
+    float:left;
+}
+
+span.required {
+    font-weight:bold; color:red;
+}
